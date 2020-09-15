@@ -1,7 +1,7 @@
 {
-  "name": "gajago-admin-new-feature-client",
+  "name": "react-redux-study",
   "version": "0.0.1",
-  "description": "가자고 어드민 - 신규 메뉴 화면",
+  "description": "리덕스 개인 스터디",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@lqt/lqt-ui": "^1.0.0",
     "axios": "^0.19.2",
     "lodash-es": "^4.17.15",
     "react-custom-scrollbars": "^4.2.1",
