@@ -21,4 +21,4 @@ function User({user, removeUser}: {user: IUserInfo, removeUser: IRemoveUser}) {
 export default connect(
     null,
     { removeUser }
-)(User);;
+)(User);

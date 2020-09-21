@@ -32,4 +32,4 @@ function App({users, addUser}: {users: IUserInfo[], addUser: IAddUser}) {
 export default connect(
     (state: IUserInfo[]): IUserInfo[] => state,
     { addUser }
-)(App);;
+)(App);
